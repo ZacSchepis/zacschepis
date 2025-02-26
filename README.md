@@ -55,7 +55,7 @@ Implemented and visualized the Min-Max algorithm in a Qt-based C++ application a
 - Underlying structure for board display
 - Checkers minmax.
 
-#### Events Calendar Web Scraping
+#### [Events Calendar Web Scraping](https://github.com/ZacSchepis/public-apis)
 Gathering data from ISUs event calendar from HTML format into a structured JSON format
 
 #### Utility Discord Bot
@@ -64,10 +64,20 @@ My first long-term project is the ISU ACM club discord bot. Node.js
 - ISU event posting: posts upcoming events each day
 - User affiliation identification: using a password system, users are able to choose their affiliation to a club/server if it is set up there.
 
-#### Searching Automation
-A thrown together python script that will enter random searches into your search engine of choice. Python.
+#### [Lazy Linear Algebra](https://github.com/ZacSchepis/Random-Projects/tree/main/LazyLinearAlgebra)
+A Node.js-based program that provides a coding-style approach to solving linear algebra problems. Developed during my linear algebra course to verify calculations and reinforce my understanding of key concepts
 
-#### Package Version Checker
+#### Lottery Scheduler in C
+Implemented a lottery-based process scheduler in XV6 as part of my Operating Systems courework
+
+#### [Portfolio Website](https://www.zackaryschepis.com.co/)
+Currently a work in progress—updates are planned once I have more time to refine it.
+
+#### [Package Version Checker](https://github.com/ZacSchepis/Grants-Retribution)
 Built using Bash, Linux, and Python
 - Created a version checker using Python to ensure all packages needed were within a version number to use JupyterLab on an HPC GPU cluster
 - Optimized package version verification for JupyterLab on an HPC GPU cluster, reducing login time for 50+ researchers and students from 86 seconds to under 0.005 seconds.
+
+#### [Searching Automation](https://github.com/ZacSchepis/Random-Projects/tree/main/Daily%20Searches)
+A thrown together python script that will enter random searches into your search engine of choice. Python.
+
