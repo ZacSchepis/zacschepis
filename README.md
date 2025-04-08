@@ -17,6 +17,8 @@ Pursuing a Bachelor of Science in Computer Science at Idaho State University, gr
 - Connected API endpooints from the server to the frontend
 - Developed a C-based DLL geared towards replacing our previous Python implementation to communicate with a PCB
 - Integrated that DLL into an Electron/Vue.js app for direct communication
+- Remade [GP Roofing's](https://gp-roofing.net/) website for the modern age, bringing responsive elements of browsers to allow for ease of mobile viewing.
+- [New version](https://gp-roofing.vercel.app/)
 
 #### Idaho Virtualization Lab
 ##### October 2023 - May 2024
